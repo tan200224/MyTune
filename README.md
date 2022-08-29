@@ -143,7 +143,7 @@ Here is a walkthrough of the login page
 
 
 The user is asked to enter his/her email, gender and date of birth when signing up which are later on displayed in the profile Fragment.
-<img src="WalkthroughOfProfile.gif" width=350>
+<img src="WalkthroughOfProfile.gif" title='Flixter Walkthrough' width='' alt='MyTune Walkthrough' />
 
 
 <img src='Walkthrough 3.gif' title='Flixter Walkthrough'  alt='MyTune Walkthrough' />
