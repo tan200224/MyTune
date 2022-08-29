@@ -139,11 +139,11 @@ Explore tons of playlists and listen to music while meeting new people!a
 ### Video Walkthrough
 Here is a walkthrough of the login page
 
-<img src='MyTune2walkthrough.gif' title='Flixter Walkthrough' width='' alt='MyTune Walkthrough' />
+<img src='MyTune2walkthrough.gif' title='Flixter Walkthrough' alt='MyTune Walkthrough' />
 
 
 The user is asked to enter his/her email, gender and date of birth when signing up which are later on displayed in the profile Fragment.
-<img src="WalkthroughOfProfile.gif" title='Flixter Walkthrough' width='' alt='MyTune Walkthrough' />
+<img src="WalkthroughOfProfile.gif" title='Flixter Walkthrough' alt='MyTune Walkthrough' />
 
 
 <img src='Walkthrough 3.gif' title='Flixter Walkthrough'  alt='MyTune Walkthrough' />
