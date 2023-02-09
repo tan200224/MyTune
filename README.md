@@ -13,7 +13,6 @@ All you have to do is listen and engage with what you like, skip what you don't,
 Explore tons of playlists and listen to music while meeting new people!
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:** social media
 - **Mobile:** Anyone is free to share their singing, talks about some knowlege of musics. It is view and uses camera.
 - **Story:**
@@ -26,7 +25,7 @@ Explore tons of playlists and listen to music while meeting new people!
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-* [] Fill in your required user stories here
+
 * [] User can register a new account 
 * [x] User can login
 * [] User profile that shows his username, favoriate songs, and general information about the user.
@@ -37,7 +36,6 @@ Explore tons of playlists and listen to music while meeting new people!
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
 * User can set a sleep timer
 * User can switch btween night/day mode
 * User can see the history of all songs he liked
@@ -88,15 +86,9 @@ Explore tons of playlists and listen to music while meeting new people!
 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="https://user-images.githubusercontent.com/77759231/140560728-835b80f7-e1f7-4255-a3ed-6ed01495aa31.png" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
 
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
 ### Models
 [Add table of models]
 |    Property     |      Type       |                       Description                   |
