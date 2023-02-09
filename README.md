@@ -10,7 +10,7 @@
 ### Description
 With MyTune app, discover and meet musicians from all around the world. MyTun is an app that is built for people who enjoy creating, sharing, or just listening to music.
 All you have to do is listen and engage with what you like, skip what you don't, and you'll find yourself scrolling through an endless stream of posts that has all types of music.
-Explore tons of playlists and listen to music while meeting new people!a
+Explore tons of playlists and listen to music while meeting new people!
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
