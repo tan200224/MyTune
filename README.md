@@ -108,5 +108,6 @@ Explore tons of playlists and listen to music while meeting new people!
 
 ### Video Walkthrough
 Here is a walkthrough
+
 <img src='Walkthrough 3.gif' title='Flixter Walkthrough'  alt='MyTune Walkthrough' />
 
