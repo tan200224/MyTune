@@ -15,31 +15,9 @@ Explore tons of playlists and listen to music while meeting new people!
 ### App Evaluation
 - **Category:** social media
 - **Mobile:** Anyone is free to share their singing, talks about some knowlege of musics. It is view and uses camera.
-- **Story:**
 - **Market:** It is for anyone who wants to listen and watch videos that are music.
 - **Habit:** Musical interest
 - **Scope:** A social meadia that shares music, musical ideas, the record of their singing, making firends, and gainning followers. 
-
-## Product Spec
-
-### 1. User Stories (Required and Optional)
-
-**Required Must-have Stories**
-
-* [] User can register a new account 
-* [x] User can login
-* [] User profile that shows his username, favoriate songs, and general information about the user.
-* [] User can upload his own music in a post
-* [] User can listen to other people songs
-* [] User can like/comment on other people shared songs
-* [] User can create/save have his own playlists
-
-**Optional Nice-to-have Stories**
-
-* User can set a sleep timer
-* User can switch btween night/day mode
-* User can see the history of all songs he liked
-* ...
 
 ### 2. Screen Archetypes
 
@@ -129,14 +107,6 @@ Explore tons of playlists and listen to music while meeting new people!
   - (Update/PUT) Update user favorite post list
 
 ### Video Walkthrough
-Here is a walkthrough of the login page
-
-<img src='MyTune2walkthrough.gif' title='Flixter Walkthrough' alt='MyTune Walkthrough' />
-
-
-The user is asked to enter his/her email, gender and date of birth when signing up which are later on displayed in the profile Fragment.
-<img src="WalkthroughOfProfile.gif" title='Flixter Walkthrough' alt='MyTune Walkthrough' />
-
-
+Here is a walkthrough
 <img src='Walkthrough 3.gif' title='Flixter Walkthrough'  alt='MyTune Walkthrough' />
 
